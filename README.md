@@ -43,6 +43,6 @@ in my free time, aside from coding i love to play geometry dash and mindustry.an
 ### some achievements
 - did lfs once
 - wrote a half-working os
-- 200 subs
+- ~~200~~ 300 subs
 - got a few users of my aur package
 - friends with a distro dev
