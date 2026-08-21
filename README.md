@@ -13,7 +13,7 @@ fn main() {
     let gui = "niri with noctalia";
     let pronouns="he/they";
     let laptop="ideapad 3 slim (😭)";
-    let languages=vec!["rust", "python", "assembly (learning)"];
+    let languages=vec!["rust", "python", "assembly (learning)", "c (also learning)"];
     println!("hi, i'm {}! i use {} pronouns.", name, pronouns);
     println!("i code {}.", languages.join(", "));
     println!("i'm {}, and my favorite project i make is {}.", age, fav_project);
@@ -26,6 +26,7 @@ i have a tiktok! my username is skerrix.rs
 
 ### projects
 my most notable project is rfetch (available at https://github.com/skerrixx/rfetch), which is also available in the AUR!
+i dont publish a lot of things i make to github, thats why i have 4 languages but my only public repo is rust
 
 ### my pc
 my pc has:
