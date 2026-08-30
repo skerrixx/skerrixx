@@ -39,11 +39,12 @@ my pc has:
 - noctalia
 
 ### not code-related
-in my free time, aside from coding i love to play geometry dash and mindustry.and i have a plush tux.btw.
+in my free time, aside from coding i love to play geometry dash and mindustry.and i have a plush tux.
+i am also from the church of emacs. iGNUcius bless you.
 
 ### some achievements
 - did lfs once
 - wrote a half-working os
-- ~~200~~ 300 subs
+- ~~200~~ ~~300~~ 404 subs
 - got a few users of my aur package
 - friends with a distro dev
