@@ -45,6 +45,6 @@ i am also from the church of emacs. iGNUcius bless you.
 ### some achievements
 - did lfs once
 - wrote a half-working os
-- ~~200~~ ~~300~~ 404 subs
+- ~~200~~ ~~300~~ ~~404~~ 560 subs
 - got a few users of my aur package
 - friends with a distro dev
