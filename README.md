@@ -41,6 +41,7 @@ my pc has:
 ### not code-related
 in my free time, aside from coding i love to play geometry dash and mindustry.and i have a plush tux.
 i am also from the church of emacs. iGNUcius bless you.
+warrior for gnu/hurd and working on porting stuff i make to debian gnu/hurd (rfetch hurd is 70% ported)
 
 ### some achievements
 - did lfs once
