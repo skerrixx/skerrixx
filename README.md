@@ -9,7 +9,7 @@ fn main() {
     let name="rix";
     let age: isize = 12;
     let fav_project = "rfetch";
-    let os = "arch(btw)";
+    let os = "guix(btw)";
     let gui = "niri with noctalia";
     let pronouns="he/they";
     let laptop="ideapad 3 slim (😭)";
