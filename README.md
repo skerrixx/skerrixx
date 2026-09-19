@@ -46,6 +46,6 @@ warrior for gnu/hurd and working on porting stuff i make to debian gnu/hurd (rfe
 ### some achievements
 - did lfs once
 - wrote a half-working os
-- ~~200~~ ~~300~~ ~~404~~ 560 subs
+- ~~200~~ ~~300~~ ~~404~~ ~~560~~ 700(wowzers) subs
 - got a few users of my aur package
 - friends with a distro dev
